@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\EjerciciosInicial.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\EjerciciosInicial.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\EjerciciosInicial.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\EjerciciosInicial.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\EjerciciosInicial.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\refint\EjerciciosInicial.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\EjerciciosInicial.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\ref\EjerciciosInicial.dll

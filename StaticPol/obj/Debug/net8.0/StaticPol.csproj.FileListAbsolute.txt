@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\bin\Debug\net8.0\StaticPol.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\bin\Debug\net8.0\StaticPol.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\bin\Debug\net8.0\StaticPol.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\bin\Debug\net8.0\StaticPol.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\bin\Debug\net8.0\StaticPol.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\refint\StaticPol.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\StaticPol.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\StaticPol\obj\Debug\net8.0\ref\StaticPol.dll

@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\Básico.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\Básico.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\Básico.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\Básico.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\bin\Debug\net8.0\Básico.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\refint\Básico.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\Básico.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\EjerciciosDeClase\obj\Debug\net8.0\ref\Básico.dll

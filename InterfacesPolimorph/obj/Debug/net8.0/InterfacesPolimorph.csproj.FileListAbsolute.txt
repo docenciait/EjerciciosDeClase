@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\bin\Debug\net8.0\InterfacesPolimorph.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\bin\Debug\net8.0\InterfacesPolimorph.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\bin\Debug\net8.0\InterfacesPolimorph.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\bin\Debug\net8.0\InterfacesPolimorph.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\bin\Debug\net8.0\InterfacesPolimorph.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\refint\InterfacesPolimorph.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\InterfacesPolimorph.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesPolimorph\obj\Debug\net8.0\ref\InterfacesPolimorph.dll

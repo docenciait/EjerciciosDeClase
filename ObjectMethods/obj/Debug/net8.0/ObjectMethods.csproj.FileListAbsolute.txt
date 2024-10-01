@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\bin\Debug\net8.0\ObjectMethods.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\bin\Debug\net8.0\ObjectMethods.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\bin\Debug\net8.0\ObjectMethods.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\bin\Debug\net8.0\ObjectMethods.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\bin\Debug\net8.0\ObjectMethods.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\refint\ObjectMethods.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ObjectMethods.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ObjectMethods\obj\Debug\net8.0\ref\ObjectMethods.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A83ED-0B7F-4DA6-B8DD-8E281156C208}|Ejercicio3_bis\\Ejercicio3_bis.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\ejercicio3_bis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A83ED-0B7F-4DA6-B8DD-8E281156C208}|Ejercicio3_bis\\Ejercicio3_bis.csproj|solutionrelative:ejercicio3_bis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE036811-EBFE-4AD9-BCAD-164574903CC3}|ObjectMethods\\ObjectMethods.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\objectmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE036811-EBFE-4AD9-BCAD-164574903CC3}|ObjectMethods\\ObjectMethods.csproj|solutionrelative:objectmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1656FE8F-E8A0-4560-813B-2DAE8831D79C}|Explicaci\u00F3nBifurcaci\u00F3nBucles\\SelectionLoops.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\explicaci\u00F3nbifurcaci\u00F3nbucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1656FE8F-E8A0-4560-813B-2DAE8831D79C}|Explicaci\u00F3nBifurcaci\u00F3nBucles\\SelectionLoops.csproj|solutionrelative:explicaci\u00F3nbifurcaci\u00F3nbucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_bis\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\Program.cs",
+              "RelativeToolTip": "Ejercicio3_bis\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:40:34.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ObjectMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ObjectMethods\\Program.cs",
+              "RelativeToolTip": "ObjectMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:18:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Explicaci\u00F3nBifurcaci\u00F3nBucles\\Program.cs",
+              "RelativeDocumentMoniker": "Explicaci\u00F3nBifurcaci\u00F3nBucles\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Explicaci\u00F3nBifurcaci\u00F3nBucles\\Program.cs",
+              "RelativeToolTip": "Explicaci\u00F3nBifurcaci\u00F3nBucles\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:18:08.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\bin\Debug\net8.0\Herencia.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\bin\Debug\net8.0\Herencia.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\bin\Debug\net8.0\Herencia.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\bin\Debug\net8.0\Herencia.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\bin\Debug\net8.0\Herencia.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\refint\Herencia.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Herencia\obj\Debug\net8.0\ref\Herencia.dll

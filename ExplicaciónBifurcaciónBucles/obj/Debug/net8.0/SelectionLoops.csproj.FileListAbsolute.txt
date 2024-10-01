@@ -1,0 +1,14 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\bin\Debug\net8.0\SelectionLoops.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\bin\Debug\net8.0\SelectionLoops.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\bin\Debug\net8.0\SelectionLoops.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\bin\Debug\net8.0\SelectionLoops.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\bin\Debug\net8.0\SelectionLoops.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\refint\SelectionLoops.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\SelectionLoops.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ExplicaciónBifurcaciónBucles\obj\Debug\net8.0\ref\SelectionLoops.dll
