@@ -1,0 +1,15 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\bin\Debug\net8.0\Encapsulación.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\bin\Debug\net8.0\Encapsulación.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\bin\Debug\net8.0\Encapsulación.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\bin\Debug\net8.0\Encapsulación.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\bin\Debug\net8.0\Encapsulación.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.sourcelink.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\refint\Encapsulación.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\Encapsulación.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Encapsulación\obj\Debug\net8.0\ref\Encapsulación.dll

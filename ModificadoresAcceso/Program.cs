@@ -18,7 +18,7 @@ namespace ModificadoresDeAcceso
 
             // Protected
             EjemploProtected ejemplo3 = new EjemploProtected();
-            Console.WriteLine(ejemplo3.PruebaAcceso); // Error. no podemos acceder ya que esta clase no hereda de EjemploProtected
+            //Console.WriteLine(ejemplo3.PruebaAcceso); // Error. no podemos acceder ya que esta clase no hereda de EjemploProtected
 
         }
     }
@@ -63,4 +63,5 @@ class claseHerencia : EjemploProtected //Herencia, osea clase hija.
  * desde las que derivan de ella. Lo que permite referenciar métodos y propiedades en clases de las cuales heredamos.
  * 
  * 
- * /
+ */
+

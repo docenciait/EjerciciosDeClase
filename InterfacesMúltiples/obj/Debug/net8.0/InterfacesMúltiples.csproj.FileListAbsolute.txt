@@ -1,0 +1,15 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\bin\Debug\net8.0\InterfacesMúltiples.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\bin\Debug\net8.0\InterfacesMúltiples.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\bin\Debug\net8.0\InterfacesMúltiples.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\bin\Debug\net8.0\InterfacesMúltiples.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\bin\Debug\net8.0\InterfacesMúltiples.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.sourcelink.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\refint\InterfacesMúltiples.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\InterfacesMúltiples.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\InterfacesMúltiples\obj\Debug\net8.0\ref\InterfacesMúltiples.dll

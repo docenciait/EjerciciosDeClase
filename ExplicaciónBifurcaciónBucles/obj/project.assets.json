@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ExplicaciónBifurcaciónBucles\\SelectionLoops.csproj",
-      "projectName": "SelectionLoops",
-      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ExplicaciónBifurcaciónBucles\\SelectionLoops.csproj",
+      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ExplicaciónBifurcaciónBucles\\Bucles.csproj",
+      "projectName": "Bucles",
+      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ExplicaciónBifurcaciónBucles\\Bucles.csproj",
       "packagesPath": "C:\\Users\\Deva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\ExplicaciónBifurcaciónBucles\\obj\\",
       "projectStyle": "PackageReference",

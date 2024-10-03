@@ -1,0 +1,15 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\bin\Debug\net8.0\ModificadorDeAcceso2.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\bin\Debug\net8.0\ModificadorDeAcceso2.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\bin\Debug\net8.0\ModificadorDeAcceso2.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\bin\Debug\net8.0\ModificadorDeAcceso2.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\bin\Debug\net8.0\ModificadorDeAcceso2.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.sourcelink.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\refint\ModificadorDeAcceso2.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ModificadorDeAcceso2.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\ModificadorDeAcceso2\obj\Debug\net8.0\ref\ModificadorDeAcceso2.dll

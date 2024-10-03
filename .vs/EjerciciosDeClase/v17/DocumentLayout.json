@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDD73336-0565-442E-8D35-29101AF12A0A}|DynamicPolimorph\\DynamicPolimorph.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\dynamicpolimorph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDD73336-0565-442E-8D35-29101AF12A0A}|DynamicPolimorph\\DynamicPolimorph.csproj|solutionrelative:dynamicpolimorph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}|InterfacesPolimorph\\InterfacesPolimorph.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\interfacespolimorph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}|InterfacesPolimorph\\InterfacesPolimorph.csproj|solutionrelative:interfacespolimorph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EAFD624-9367-4545-BF3F-67D4495482A7}|StaticPol\\StaticPol.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\staticpol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAFD624-9367-4545-BF3F-67D4495482A7}|StaticPol\\StaticPol.csproj|solutionrelative:staticpol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25FF6C11-8F01-4698-8AF9-AD597165BE57}|Encapsulaci\u00F3n\\Encapsulaci\u00F3n.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\encapsulaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FF6C11-8F01-4698-8AF9-AD597165BE57}|Encapsulaci\u00F3n\\Encapsulaci\u00F3n.csproj|solutionrelative:encapsulaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\Program.cs",
-              "RelativeDocumentMoniker": "InterfacesPolimorph\\Program.cs",
-              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\Program.cs",
-              "RelativeToolTip": "InterfacesPolimorph\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:25:57.712Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\DynamicPolimorph\\Program.cs",
-              "RelativeDocumentMoniker": "DynamicPolimorph\\Program.cs",
-              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\DynamicPolimorph\\Program.cs",
-              "RelativeToolTip": "DynamicPolimorph\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADgvz4AAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Encapsulaci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulaci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Encapsulaci\u00F3n\\Program.cs",
+              "RelativeToolTip": "Encapsulaci\u00F3n\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA8wDoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:10:15.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\Program.cs",
-              "RelativeDocumentMoniker": "StaticPol\\Program.cs",
-              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\Program.cs",
-              "RelativeToolTip": "StaticPol\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwC0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:03:48.044Z",
+              "WhenOpened": "2024-10-03T21:35:42.313Z",
               "EditorCaption": ""
             }
           ]

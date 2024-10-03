@@ -5,23 +5,31 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjerciciosInicial", "EjerciciosDeClase\EjerciciosInicial.csproj", "{16654E24-C572-41C6-A294-952CDC74D1CA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionLoops", "ExplicaciónBifurcaciónBucles\SelectionLoops.csproj", "{1656FE8F-E8A0-4560-813B-2DAE8831D79C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bucles", "ExplicaciónBifurcaciónBucles\Bucles.csproj", "{1656FE8F-E8A0-4560-813B-2DAE8831D79C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectMethods", "ObjectMethods\ObjectMethods.csproj", "{FE036811-EBFE-4AD9-BCAD-164574903CC3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3_bis", "Ejercicio3_bis\Ejercicio3_bis.csproj", "{1B6A83ED-0B7F-4DA6-B8DD-8E281156C208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioMenu", "Ejercicio3_bis\EjercicioMenu.csproj", "{1B6A83ED-0B7F-4DA6-B8DD-8E281156C208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{B80E9365-0C32-4274-8632-E0939AC72ABA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herencia.csproj", "{B80E9365-0C32-4274-8632-E0939AC72ABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadoresAcceso", "ModificadoresAcceso\ModificadoresAcceso.csproj", "{95B11C83-A230-457F-8AD1-E44035D89519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModificadoresAcceso", "ModificadoresAcceso\ModificadoresAcceso.csproj", "{95B11C83-A230-457F-8AD1-E44035D89519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia2", "Herencia2\Herencia2.csproj", "{F42A2716-8D0C-43B3-9437-A1D102C2CA5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia2", "Herencia2\Herencia2.csproj", "{F42A2716-8D0C-43B3-9437-A1D102C2CA5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticPol", "StaticPol\StaticPol.csproj", "{9EAFD624-9367-4545-BF3F-67D4495482A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "StaticPol\Polimorfismo.csproj", "{9EAFD624-9367-4545-BF3F-67D4495482A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "DynamicPolimorph\Interfaces.csproj", "{DDD73336-0565-442E-8D35-29101AF12A0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "DynamicPolimorph\Interfaces.csproj", "{DDD73336-0565-442E-8D35-29101AF12A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesPolimorph", "InterfacesPolimorph\InterfacesPolimorph.csproj", "{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesConPolimorfismo2", "InterfacesPolimorph\InterfacesConPolimorfismo2.csproj", "{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorDeAcceso2", "ModificadorDeAcceso2\ModificadorDeAcceso2.csproj", "{068E3040-6963-44D6-86F4-3E8BFFBA99AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesConPolimorfismo", "Interfaces2\InterfacesConPolimorfismo.csproj", "{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesMúltiples", "InterfacesMúltiples\InterfacesMúltiples.csproj", "{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulación", "Encapsulación\Encapsulación.csproj", "{25FF6C11-8F01-4698-8AF9-AD597165BE57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068E3040-6963-44D6-86F4-3E8BFFBA99AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068E3040-6963-44D6-86F4-3E8BFFBA99AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068E3040-6963-44D6-86F4-3E8BFFBA99AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068E3040-6963-44D6-86F4-3E8BFFBA99AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

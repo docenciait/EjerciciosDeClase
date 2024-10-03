@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\StaticPol.csproj",
-      "projectName": "StaticPol",
-      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\StaticPol.csproj",
+      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\Polimorfismo.csproj",
+      "projectName": "Polimorfismo",
+      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\Polimorfismo.csproj",
       "packagesPath": "C:\\Users\\Deva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\StaticPol\\obj\\",
       "projectStyle": "PackageReference",

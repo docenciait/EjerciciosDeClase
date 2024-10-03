@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\Ejercicio3_bis.csproj",
-      "projectName": "Ejercicio3_bis",
-      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\Ejercicio3_bis.csproj",
+      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\EjercicioMenu.csproj",
+      "projectName": "EjercicioMenu",
+      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\EjercicioMenu.csproj",
       "packagesPath": "C:\\Users\\Deva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Ejercicio3_bis\\obj\\",
       "projectStyle": "PackageReference",

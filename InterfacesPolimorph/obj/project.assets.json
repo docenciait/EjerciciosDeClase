@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\InterfacesPolimorph.csproj",
-      "projectName": "InterfacesPolimorph",
-      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\InterfacesPolimorph.csproj",
+      "projectUniqueName": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\InterfacesConPolimorfismo2.csproj",
+      "projectName": "InterfacesConPolimorfismo2",
+      "projectPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\InterfacesConPolimorfismo2.csproj",
       "packagesPath": "C:\\Users\\Deva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\InterfacesPolimorph\\obj\\",
       "projectStyle": "PackageReference",

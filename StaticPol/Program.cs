@@ -4,7 +4,8 @@
     {
         public static void Main()
         {
-            // static
+            // Polimorfismo dinámico con virtual y override
+
             Moto moto = new Moto("BMW","A1",1400);
             Vehiculo vehiculo = (Vehiculo)moto;
             moto.Acelerar();
