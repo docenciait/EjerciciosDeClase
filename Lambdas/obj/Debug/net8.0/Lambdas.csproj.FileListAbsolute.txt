@@ -1,0 +1,15 @@
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\bin\Debug\net8.0\Lambdas.exe
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\bin\Debug\net8.0\Lambdas.deps.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\bin\Debug\net8.0\Lambdas.runtimeconfig.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\bin\Debug\net8.0\Lambdas.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\bin\Debug\net8.0\Lambdas.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.AssemblyInfo.cs
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.sourcelink.json
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\refint\Lambdas.dll
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.pdb
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\Lambdas.genruntimeconfig.cache
+C:\Users\Deva\source\repos\EjerciciosDeClase\Lambdas\obj\Debug\net8.0\ref\Lambdas.dll

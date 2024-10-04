@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "DynamicPolimo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesConPolimorfismo2", "InterfacesPolimorph\InterfacesConPolimorfismo2.csproj", "{6DEE1B76-4115-4397-83BC-D4A0FE1A9406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorDeAcceso2", "ModificadorDeAcceso2\ModificadorDeAcceso2.csproj", "{068E3040-6963-44D6-86F4-3E8BFFBA99AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModificadorDeAcceso2", "ModificadorDeAcceso2\ModificadorDeAcceso2.csproj", "{068E3040-6963-44D6-86F4-3E8BFFBA99AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesConPolimorfismo", "Interfaces2\InterfacesConPolimorfismo.csproj", "{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesConPolimorfismo", "Interfaces2\InterfacesConPolimorfismo.csproj", "{5E184B1C-13B8-4DE7-9A96-4B30B0FC96CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesMúltiples", "InterfacesMúltiples\InterfacesMúltiples.csproj", "{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesMúltiples", "InterfacesMúltiples\InterfacesMúltiples.csproj", "{DC3A3554-3292-4E99-8D2E-E02AE166CFFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulación", "Encapsulación\Encapsulación.csproj", "{25FF6C11-8F01-4698-8AF9-AD597165BE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulación", "Encapsulación\Encapsulación.csproj", "{25FF6C11-8F01-4698-8AF9-AD597165BE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{2A164788-3A28-4458-B823-523DEEAC9781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25FF6C11-8F01-4698-8AF9-AD597165BE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A164788-3A28-4458-B823-523DEEAC9781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A164788-3A28-4458-B823-523DEEAC9781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A164788-3A28-4458-B823-523DEEAC9781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A164788-3A28-4458-B823-523DEEAC9781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

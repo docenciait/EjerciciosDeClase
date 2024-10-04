@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25FF6C11-8F01-4698-8AF9-AD597165BE57}|Encapsulaci\u00F3n\\Encapsulaci\u00F3n.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\encapsulaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25FF6C11-8F01-4698-8AF9-AD597165BE57}|Encapsulaci\u00F3n\\Encapsulaci\u00F3n.csproj|solutionrelative:encapsulaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A164788-3A28-4458-B823-523DEEAC9781}|Lambdas\\Lambdas.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A164788-3A28-4458-B823-523DEEAC9781}|Lambdas\\Lambdas.csproj|solutionrelative:lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A164788-3A28-4458-B823-523DEEAC9781}|Lambdas\\Lambdas.csproj|c:\\users\\deva\\source\\repos\\ejerciciosdeclase\\lambdas\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2A164788-3A28-4458-B823-523DEEAC9781}|Lambdas\\Lambdas.csproj|solutionrelative:lambdas\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Encapsulaci\u00F3n\\Program.cs",
-              "RelativeDocumentMoniker": "Encapsulaci\u00F3n\\Program.cs",
-              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Encapsulaci\u00F3n\\Program.cs",
-              "RelativeToolTip": "Encapsulaci\u00F3n\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA8wDoAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Lambdas\\Program.cs",
+              "RelativeDocumentMoniker": "Lambdas\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Lambdas\\Program.cs",
+              "RelativeToolTip": "Lambdas\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T21:35:42.313Z",
+              "WhenOpened": "2024-10-03T22:18:05.86Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Lambdas\\Readme.md",
+              "RelativeDocumentMoniker": "Lambdas\\Readme.md",
+              "ToolTip": "C:\\Users\\Deva\\source\\repos\\EjerciciosDeClase\\Lambdas\\Readme.md",
+              "RelativeToolTip": "Lambdas\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-03T22:13:21.738Z"
             }
           ]
         }
